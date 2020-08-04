@@ -1,5 +1,3 @@
-# Registro de Pomodoros diarios
+## Registro de Pomodoros diarios
 
-### 03-08-2020:
-
-- 🍅 🍅 🍅 🍅
+- 03-08-2020: 🍅 🍅 🍅 🍅
